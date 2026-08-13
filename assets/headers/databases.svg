@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 28" width="100%" height="28" role="img" aria-label="Category: Data and Storage">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&amp;display=swap');
+      .label {
+        font-family: 'Space Grotesk', 'Segoe UI', Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        letter-spacing: 3px;
+        fill: #8A8F98;
+        text-transform: uppercase;
+      }
+      .dash { stroke: #8A8F98; stroke-width: 1; opacity: 0.5; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="none" />
+  <line x1="0" y1="14" x2="18" y2="14" class="dash" />
+  <text x="26" y="18" class="label">Data &amp; Storage</text>
+</svg>

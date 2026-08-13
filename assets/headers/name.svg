@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 130" width="100%" height="130" role="img" aria-labelledby="nameTitle nameDesc">
+  <title id="nameTitle">Alex L. Berin</title>
+  <desc id="nameDesc">Full-stack Development, Cloud Engineering, Solutions Architecture</desc>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&amp;display=swap');
+      .name {
+        font-family: 'Space Grotesk', 'Segoe UI', Helvetica, Arial, sans-serif;
+        font-size: 42px;
+        font-weight: 700;
+        letter-spacing: 5px;
+        fill: #C41E3A;
+        text-transform: uppercase;
+      }
+      .role {
+        font-family: 'Space Grotesk', 'Segoe UI', Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        letter-spacing: 3.5px;
+        fill: #8A8F98;
+        text-transform: uppercase;
+      }
+      .rule { stroke: #C41E3A; stroke-width: 1; opacity: 0.55; }
+      .tick { fill: #C41E3A; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="none" />
+  <text x="50%" y="46" dominant-baseline="middle" text-anchor="middle" class="name">ALEX L. BERIN</text>
+  <line x1="270" y1="78" x2="680" y2="78" class="rule" />
+  <circle cx="270" cy="78" r="2.5" class="tick" />
+  <circle cx="680" cy="78" r="2.5" class="tick" />
+  <text x="50%" y="106" dominant-baseline="middle" text-anchor="middle" class="role">FULL-STACK ENGINEERING — CLOUD ARCHITECTURE — SYSTEMS DESIGN</text>
+</svg>
